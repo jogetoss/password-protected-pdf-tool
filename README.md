@@ -1,6 +1,8 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+The Password Protected Pdf Tool plugin is used to to generate password-protected PDF documents. Supports multiple file uploads. 
+
+To setup and configure this plugin, please see the documentation at https://dev.joget.org/community/display/marketplace/Password+Protected+Pdf+Tool+Plugin
 
 # Getting Help
 
